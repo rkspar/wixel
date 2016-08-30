@@ -443,7 +443,7 @@ tbody {
   padding: 10px 0;
 }
 .dark .footer {
-  background-color: #222222;
+  background-color: #FCFBE3;
 }
 .dark .subfooter {
   background-color: #373737;
@@ -761,7 +761,7 @@ tbody {
   background-color: #ffffff;
 }
 .light-gray-bg {
-  background-color: #fafafa;
+  background-color: #FCFBE3;
   border-top: 1px solid #f3f3f3;
   border-bottom: 1px solid #f3f3f3;
 }
@@ -1038,7 +1038,7 @@ tbody {
 }
 .fixed-header-on .header.fixed:not(.dark) {
   border-bottom: 1px solid #f1f1f1;
-  background-color: rgba(255, 255, 255, 0.95);
+  background-color: #FCFBE3;
 }
 .transparent-header.gradient-background-header.fixed-header-on .header.fixed:not(.dark) {
   border-bottom: none;

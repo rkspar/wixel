@@ -459,7 +459,7 @@ tbody {
   position: absolute;
   width: 100%;
   left: 0;
-  background-color: rgba(255, 255, 255, 0.92);
+  background-color: #FCFBE3;
   border-bottom: 1px solid rgba(0, 0, 0, 0.07);
   border-top-color: #a0a0a0;
 }
@@ -771,7 +771,7 @@ tbody {
   border-bottom: 1px solid #eaeaea;
 }
 .dark-bg {
-  background-color: #373737;
+  background-color: #FDB813;
   color: #cdcdcd;
 }
 .dark-bg + .dark-bg:not(.image-box):not(.full-image-container):not(.full-text-container):not(.full-width-section) {
